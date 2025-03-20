@@ -1,0 +1,33 @@
+About this Document
+Range of validity
+The present manual applies to S34U18 three phase smart meters.
+Target group
+The content of this manual is intended for technically qualified personnel of energy supply 
+companies, responsible for system planning, installation and commissioning, operation, maintenance, 
+decommissioning and disposal of meters.
+Purpose
+The manual contains the information of specification, to facilitate the operation and maintenance of 
+electricity meters according to this document.
+The Meter is designed and constructed in such a way as to avoid introducing any danger to the meter 
+in use and under normal conditions, so as to ensure specially personnel safety against electric shock
+
+Technical Manual of Meter of P34U86
+21 / 93
+Address: No.16, Fengwan Road, Cicheng Town, Jiangbei District, Ningbo, China, 315000
+Company: Ningbo Sanxing Electric Co., Ltd.
+Web: www.sanxingelectric.com
+The connecting wires at the place of installation must not be live when removing the 
+meter. Touching live parts is dangerous to life. The corresponding main fuses should be 
+removed and kept in a safe place until work is completed, so that they cannot be replaced 
+by anyone unnoticed.
+Remove the meter from the network as follows:
+1 Turn off the load by using the meter breaker
+2 Switch off the voltage and remove the fuses. The display goes off.
+3 Open the sealing screw covers and remove the seals.
+4 Release and remove the terminal cover.
+5 Ensure with a phase checker that the connecting wires have no voltage. If there is voltage, 
+troubleshoots!
+6 Remove the connecting wires of the inputs and outputs, if available.
+7 Loosen the terminal screws of the phase and neutral connecting wires with a suitable 
+screwdriver and withdraw the wires from the terminals.
+8 Unscrew and remove the meter
