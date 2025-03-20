@@ -9,6 +9,7 @@ def fun3(n1 =222 ,n2=333)->int:
 
 fun1()    
 
+
 print(fun2(100))
 
 print(fun3(n2=1010,n1=200))   
